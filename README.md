@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Nyattsu72's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyattsu72&show_icons=true&hide_border=true)](https://github.com/nyattsu72/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyattsu72&layout=compact&hide_border=true)](https://github.com/nyattsu72/github-readme-stats)
 
 <a href="https://github.com/nyattsu72/github-readme-stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=nyattsu72&show_icons=true&hide_border=true" />
